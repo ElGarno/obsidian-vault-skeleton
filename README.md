@@ -9,6 +9,32 @@ CSS snippets, plugins, templates and dashboards. Contains no notes.
 2. In Obsidian: *Open folder as vault* and select the folder.
 3. Confirm *Trust author and enable plugins*.
 
+## Plugins
+
+All plugins are included and enabled. Install any of them in your own vault via
+*Settings → Community plugins → Browse*.
+
+| Plugin | Used for |
+|--------|----------|
+| [Dataview](https://github.com/blacksmithgu/obsidian-dataview) | Queries in `99 - Meta/Dashboards` |
+| [Templater](https://github.com/SilentVoid13/Templater) | Templates; auto-applies `Unique` to new notes in `05 - Fleeting` |
+| [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) | Daily, weekly and yearly notes in `06 - Periodic` |
+| [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) | Calendar sidebar for periodic notes |
+| [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) | Task tracking across the vault (`Task Dashboard`) |
+| [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) | Sketches and diagrams |
+| [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) | Table formatting and navigation |
+| [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) | Color-coded highlighting |
+| [Iconize](https://github.com/FlorianWoelki/obsidian-iconize) | Icons for folders and files |
+| [Icons](https://github.com/visini/obsidian-icons-plugin) | Icons inside notes |
+| [Completr](https://github.com/tth05/obsidian-completr) | Auto-completion (words, frontmatter, LaTeX) |
+| [Copilot](https://github.com/logancyang/obsidian-copilot) | AI chat over the vault; needs your own API key |
+| [Git](https://github.com/Vinzent03/obsidian-git) | Version control / backup of the vault |
+| [Keep the Rhythm](https://github.com/benjaminezequiel/keep-the-rhythm) | Writing-habit statistics |
+| [Settings Search](https://github.com/javalent/settings-search) | Search across all settings |
+| [Plugin Reloader](https://github.com/Benature/obsidian-plugin-reloader) | Reload single plugins without restarting |
+
+Core plugin in use besides the defaults: *Unique note creator* (see Hotkeys).
+
 ## Add the CSS to an existing vault
 
 Close Obsidian first, or reload it afterwards (`Cmd/Ctrl+P` → *Reload app without saving*).
