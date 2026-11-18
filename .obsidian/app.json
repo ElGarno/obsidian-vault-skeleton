@@ -1,0 +1,14 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "05 - Fleeting",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "99 - Meta/Attachments"
+}

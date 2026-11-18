@@ -1,0 +1,14 @@
+{
+  "enabledCssSnippets": [
+    "Notebook Backgrounds",
+    "Weekly_Note_Themes",
+    "Colored Sidebar Items",
+    "Daily Note Themes"
+  ],
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "MesloLGL Nerd Font,MesloLGL Nerd Font Mono,jetbrains,jetbrains mono,Bai Jamjuree",
+  "textFontFamily": "MesloLGL Nerd Font,MesloLGL Nerd Font Mono,JetBrainsMono Nerd Font,JetBrainsMono Nerd Font Mono,Bai Jamjuree",
+  "monospaceFontFamily": "MesloLGL Nerd Font Mono",
+  "translucency": true,
+  "showRibbon": true
+}
